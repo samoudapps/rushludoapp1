@@ -1,0 +1,1 @@
+com.inzgapps2store.rushludoapptipsgame_app1
